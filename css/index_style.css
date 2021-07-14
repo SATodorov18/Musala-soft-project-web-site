@@ -1,5 +1,5 @@
 body {
-    background-image: url('../images/background_image.jpg');
+    background-image: url('../images/index_background_image.jpg');
  }
  
  html,
@@ -249,24 +249,4 @@ body {
  #footer-social li a {
      color: #fff;
      font-size: 18px;
- }
- 
- .tm-down-arrow-link {
-   display: block;
-   margin-top: 18%;
- }
- 
- .tm-down-arrow {
-   color: #c57e7d;
-   cursor: pointer;
-   background: white;
-   border-radius: 50%;
-   padding: 10px 22px 8px;
-   transition: all 0.3s ease;
- }
- 
- .tm-down-arrow:hover,
- .tm-down-arrow:focus {
-   color: white;
-   background: #3496d8;
  }
