@@ -17,7 +17,7 @@ body {
  }
  
  .col-md-4 {
-     padding-bottom: 20px;
+     padding-bottom: 30px;
  }
  
  
@@ -81,7 +81,7 @@ body {
  .navbar-default .navbar-nav > li > a:hover,
  .navbar-default .navbar-nav > li > a:focus {
      background-color: transparent;
-     color: #202020;
+     color: #FFFFFF;
  }
  
  .navbar-default .navbar-nav > li > a:hover:after,
