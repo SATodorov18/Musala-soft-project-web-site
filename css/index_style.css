@@ -1,19 +1,14 @@
+html,
 body {
+    font-family: 'Open Sans';
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+    overflow-x: hidden;
+    height: 100%;
     background-image: url('../images/index_background_image.jpg');
  }
- 
- html,
- body {
-     height: 100%;
- }
- 
- body {
-     font-family: 'Open Sans';
-     font-weight: 300;
-     font-size: 16px;
-     color: #555;
-     overflow-x: hidden;
- }
+
  
  .col-md-4 {
      padding-bottom: 30px;
@@ -227,28 +222,6 @@ body {
  .btn-success:hover {
      background-color: #2980b9;
      border-color: #2980b9;
- }
- 
- #footer-social {
-     padding: 0;
-     margin: 0 0 30px 0;
- }
- 
- #footer-social li {
-     color: #ffffff;
-     border: 2px solid #fff;
-     width: 40px;
-     height: 40px;
-     line-height: 39px;
-     text-align: center;
-     list-style: none;
-     display: inline-block;
-     opacity: 0.6;
- }
- 
- #footer-social li a {
-     color: #fff;
-     font-size: 18px;
  }
 
 .rate {
