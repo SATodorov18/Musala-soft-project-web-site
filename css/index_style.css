@@ -259,19 +259,3 @@ body {
 .rate > label:hover ~ input:checked ~ label {
     color: #c59b08;
 }
-
-
-.container1 {
-    position: relative;
-    font-family: Arial;
-  }
-  
-  .text-block {
-    position: absolute;
-    bottom: 20px;
-    right: 20px;
-    background-color: black;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-  }
