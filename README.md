@@ -1,6 +1,6 @@
 # Musala-soft-project-web-site
 
-## Hello, we are GGFC!
+## Hello, we are team GGFC!
 
 We are developing a mobile app, which will help you to stay fit and live healthy life. The application will have a lot of exercises and trainings, also you will find recipes for healthy food like protein bars and shakes and information about fitnesses in Burgas, Sofia and Varna! This is the website, where you can download and learn how our application works!
 
